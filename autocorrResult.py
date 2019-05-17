@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 12 03:32:10 2019
-
-@author: aksha
-"""
 
 # by Mike Caverley, Lukas Chrostowski, 2014-2015
 # Curve fitting of MZI spectra
